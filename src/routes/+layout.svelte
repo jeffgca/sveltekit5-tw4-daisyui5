@@ -1,6 +1,10 @@
 <script>
+	import Shell from '$lib/components/Shell.svelte';
 	import '../app.css';
+
 	let { children } = $props();
 </script>
 
-{@render children()}
+<Shell>
+	{@render children()}
+</Shell>

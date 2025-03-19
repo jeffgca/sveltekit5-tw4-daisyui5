@@ -1,0 +1,21 @@
+{
+	"company": {
+		"name": "Eko Recordings",
+		"logo": "lucide:audio-waveform",
+		"description": "Personal site of Jeff Griffiths",
+		"url": "https://jeffg.ca/",
+		"email": "hello@jeffg.ca",
+		"socials": [
+			{
+				"name": "bluesky",
+				"handle": "@jeffg.ca",
+				"link": "https://bsky.app/profile/jeffg.ca"
+			},
+			{
+				"name": "email",
+				"handle": "info@jeffg.ca",
+				"link": "mailto:info@jeffg.ca"
+			}
+		]
+	}
+}
