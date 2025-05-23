@@ -1,11 +1,7 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
-@plugin 'daisyui' {
-	themes:
-		acid,
-		synthwave --default --prefersdark;
-}
+@plugin 'daisyui';
 
 svg.iconify {
 	display: inline;

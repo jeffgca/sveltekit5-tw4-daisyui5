@@ -2,6 +2,7 @@
 	// import { configStore } from '$lib/stores/config';
 	import Header from './Header.svelte';
 	import * as config from '../../site-config.json';
+	import Debug from './Debug.svelte';
 
 	// console.log('config', config);
 	import Footer from './Footer.svelte';
@@ -14,6 +15,7 @@
 		{@render children()}
 	</div>
 </div>
+<Debug />
 <Footer company={config.company} />
 
 <style>
