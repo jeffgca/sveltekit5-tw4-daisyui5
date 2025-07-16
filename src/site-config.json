@@ -1,8 +1,8 @@
 {
 	"company": {
-		"name": "Eko Recordings",
+		"name": "Svelte 5 Demo",
 		"logo": "lucide:audio-waveform",
-		"description": "Personal site of Jeff Griffiths",
+		"description": "A demo template for Svelte 5, SvelteKit 2, Tailwind CSS 4, and DaisyUI 5.",
 		"url": "https://jeffg.ca/",
 		"email": "hello@jeffg.ca",
 		"socials": [
