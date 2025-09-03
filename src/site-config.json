@@ -17,5 +17,10 @@
 				"link": "mailto:info@jeffg.ca"
 			}
 		]
+	},
+	"theme": {
+		"name": "dracula",
+		"light": false,
+		"dark": true
 	}
 }
