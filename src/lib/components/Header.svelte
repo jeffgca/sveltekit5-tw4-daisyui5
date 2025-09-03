@@ -57,8 +57,4 @@
 	.company-name {
 		font-size: 3em;
 	}
-
-	.theme-controller {
-		display: none;
-	}
 </style>
