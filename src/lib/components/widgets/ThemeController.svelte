@@ -30,4 +30,9 @@
 		/* cursor: pointer; */
 		display: none;
 	}
+
+	label.swap {
+		/* cursor: pointer; */
+		margin-right: 2em;
+	}
 </style>

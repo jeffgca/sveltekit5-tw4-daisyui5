@@ -44,8 +44,6 @@
 	</div>
 	<div class="navbar-end">
 		<ThemeController />
-
-		<!--  -->
 	</div>
 </div>
 

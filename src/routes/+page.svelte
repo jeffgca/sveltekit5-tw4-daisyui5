@@ -12,15 +12,11 @@
 
 <p>I highly recommend using the Github command line utility `gh`:</p>
 
-<pre><code>
-	~ $ brew install gh
-</code></pre>
+<pre><code>~ $ brew install gh</code></pre>
 
 <p>
 	Once you have `gh` installed, you can create a new project from this template repository usign
 	this command:
 </p>
 
-<pre><code>
-	~ $ gh repo create my-new-project --template jeffgca/sveltekit5-tw4-daisyui5
-</code></pre>
+<pre><code>~ $ gh repo create my-new-project --template jeffgca/sveltekit5-tw4-daisyui5</code></pre>
