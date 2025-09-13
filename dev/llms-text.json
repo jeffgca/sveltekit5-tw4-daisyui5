@@ -1,0 +1,10 @@
+[
+	{
+		"name": "svelte",
+		"url": "https://svelte.dev/llms-full.txt"
+	},
+	{
+		"name": "daisy",
+		"url": "https://daisyui.com/llms.txt"
+	}
+]
