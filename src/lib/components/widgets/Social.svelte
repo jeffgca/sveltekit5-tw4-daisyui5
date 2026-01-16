@@ -16,10 +16,10 @@
 		default: 'lucide:at-sign'
 	};
 
-	let hydrated = _.map(socials, (social) => {
+	let hydrated = $derived(_.map(socials, (social) => {
 		social.icon = supportedIcons[social.name] || supportedIcons.default;
 		return social;
-	});
+	}));
 </script>
 
 <nav>
