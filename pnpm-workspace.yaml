@@ -1,2 +1,6 @@
+allowBuilds:
+  esbuild: true
 onlyBuiltDependencies:
   - esbuild
+overrides:
+  "cookie": ">=1.0.0"
