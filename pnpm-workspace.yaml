@@ -3,4 +3,4 @@ allowBuilds:
 onlyBuiltDependencies:
   - esbuild
 overrides:
-  "cookie": ">=1.0.0"
+  "cookie": "^0.7.0"
